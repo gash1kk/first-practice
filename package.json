@@ -1,0 +1,6 @@
+{
+  "scripts"; {
+    "test"; "jest",
+    "ci"; "npm install && npm test"
+  }
+}

@@ -1,0 +1,6 @@
+2024-01-15 10:30:45,123 - __main__ - INFO - Application started
+2024-01-15 10:30:45,124 - __main__ - DEBUG - User login attempt: user_id=12345
+2024-01-15 10:30:45,125 - __main__ - INFO - Request received: request_id=req_001, endpoint=/api/data
+2024-01-15 10:30:45,126 - __main__ - WARNING - Cache miss for key: user_profile_12345
+2024-01-15 10:30:45,127 - __main__ - ERROR - Division by zero in calculate_average()
+2024-01-15 10:30:45,128 - __main__ - CRITICAL - Failed to process request: request_id=req_001
